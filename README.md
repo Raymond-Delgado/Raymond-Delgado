@@ -1,5 +1,5 @@
 ## 👋 Hello, World!
-My name is Raymond and I am an IT professional with over 7 years of experience that spans SaaS, enterprise, and public-sector enviroments. I am currently trying to pivot into a career as a backend developer. I enjoy creating reliable systems, modeling clean data flows, and designing backend logic that makes complex workflows predictable.
+I am Raymond, a backend developer specializing in Node.js, Python, SQL, and API-driven automation. I build workflow-focused backend systems, model structured data, and debug distributed behavior across SaaS, enterprise, and public sector environments. My projects include an AI-powered automation bot and a CMS with CRUD operations and ETL-style processing. I am currently growing toward an Associate Backend Developer role and enjoy creating reliable systems that turn complex data flows into predictable, well-structured logic.
 
 ## 🔬 Technical Skills
 ### Languages
