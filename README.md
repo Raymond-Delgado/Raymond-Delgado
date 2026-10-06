@@ -52,6 +52,7 @@ CMS focused on structured data modeling, CRUD operations, and automated content 
 
 ### Certificates
 **Certificate of Achievement: Back-end Development -- Boot.dev (In Progress)**
+
 **Certificate of Achievement: Software Development -- Pasadena City College (2026)**
 
 ## 🎯 Current Goals
